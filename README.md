@@ -38,7 +38,7 @@ If you're interested in **AI, healthcare, or open-source projects**, feel free t
 
 ## 📬 Contact
 - 🌐 GitHub: [BioNeuralNetwork](https://github.com/BioNeuralNetwork)  
-- ✉️ Email: *[add your contact email here]*  
+- ✉️ Email: *[bioneuralnetwork@gmail.com]*  
 
 ---
 
